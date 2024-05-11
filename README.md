@@ -1,4 +1,4 @@
-# English_Chatbot_for_Learners
+# English Chatbot for Learners
 Sente dificuldades no aprendizado gramatical de inglês? Este chatbot pode te ajudar! Com atividades precisas baseadas no assunto que você deseja aprender, o English Chatbot for Learners gera 5 exercícios a respeito do tópico o qual você está estudando e, caso haja necessidade, pode até pedir mais questões! Teste agora! 
 
 ![R](https://github.com/thiagosergio28/English_Chatbot_for_Learners/assets/87444593/550b38d3-7686-41a7-b677-2ec6dd956412)
